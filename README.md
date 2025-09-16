@@ -140,5 +140,5 @@ To upload
 https://github.com/user-attachments/assets/5c78739b-dbb9-4e67-8622-533f2a08ae50
 
 # Result
-Thus the Fan speed controller system using temperature sensor id developed
+Thus the Fan speed controller system using temperature sensor is developed
 ---
